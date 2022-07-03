@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am Shubhendu mishra, a final year student of [***Birla Institute of Technology, Mesra - Ranchi***.](https://www.bitmesra.ac.in/) I am currently pursuing ***Integrated Master of Science in Mathematics and computing.***
 
+I am passionate about working in the field of ***Data Science.***
+
+***My project lies in the area of Machine Learning, Deep Learning, Natural Language Processing. I try to relate and solve real world problems using Data Science Tools and Technologies.*** 
 <!--
 **shub-coder/shub-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
