@@ -7,7 +7,10 @@ I am a ***Kaggle Expert.***
 ***My project lies in the area of Machine Learning, Deep Learning, Natural Language Processing. I try to relate and solve real world problems using Data Science Tools and Technologies.*** 
 
 **My Experience with Languages and Tools**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=shub-coder)
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <!--
 **shub-coder/shub-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
