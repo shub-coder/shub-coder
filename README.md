@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Shubhendu mishra, a final year student of Birla Institute of Technology, Mesra - Ranchi. I am currently pursuing Integrated Master 
+I am Shubhendu mishra, a final year student of **Birla Institute of Technology, Mesra - Ranchi**. I am currently pursuing Integrated Master 
 of Science in Mathematics and computing.
 
 <!--
