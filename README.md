@@ -9,7 +9,7 @@ I am a final year student of [***Birla Institute of Technology, Mesra - Ranchi**
 I am passionate about working in the field of ***Data Science and Software development engineer.***
 
 I am a ***Kaggle Expert.***
-***My project lies in the area of Machine Learning, Deep Learning, Natural Language Processing. I try to relate and solve real world problems using Data Science Tools and Technologies.*** 
+***My projects lies in the area of Machine Learning, Deep Learning, Natural Language Processing. I try to relate and solve real world problems using Data Science Tools and Technologies.*** 
 
 **My Experience with Languages and Tools**
 
