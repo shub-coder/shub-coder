@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<h1 align="center">Hi 👋, I am Shubhendu Mishra</h1>
+
 I am Shubhendu mishra, a final year student of [***Birla Institute of Technology, Mesra - Ranchi***.](https://www.bitmesra.ac.in/) I am currently pursuing ***Integrated Master of Science in Mathematics and computing.***
 
 I am passionate about working in the field of ***Data Science and Software development engineer.***
